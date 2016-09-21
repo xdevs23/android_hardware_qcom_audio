@@ -34,6 +34,7 @@
 #include "platform_api.h"
 #include "audio_extn.h"
 #include "voice.h"
+#include "../msm8994/platform.h"
 
 #define AUDIO_OUTPUT_POLICY_VENDOR_CONFIG_FILE "/vendor/etc/audio_output_policy.conf"
 
